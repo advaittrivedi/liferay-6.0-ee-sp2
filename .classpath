@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="tools/portlet_vaadin_tmpl/docroot/WEB-INF/src"/>
+	<classpathentry kind="src" path="portlets/friendly-url-portlet/docroot/WEB-INF/src"/>
+	<classpathentry kind="src" path="portlets/infra-dao-portlet/docroot/WEB-INF/src"/>
+	<classpathentry kind="src" path="portlets/infra-test-portlet/docroot/WEB-INF/src"/>
+	<classpathentry kind="src" path="hooks/mobile-service-pre-action-hook/docroot/WEB-INF/src"/>
+	<classpathentry kind="src" path="ext/azzazzel-liferay-multi-device-ext-27e1b5c/docroot/WEB-INF/ext-impl/src"/>
+	<classpathentry kind="src" path="ext/azzazzel-liferay-multi-device-ext-27e1b5c/docroot/WEB-INF/ext-service/src"/>
+	<classpathentry kind="src" path="portlets/search-test-portlet/docroot/WEB-INF/src"/>
+	<classpathentry kind="lib" path="lib/activation.jar"/>
+	<classpathentry kind="lib" path="lib/ant-contrib.jar"/>
+	<classpathentry kind="lib" path="lib/antelope.jar"/>
+	<classpathentry kind="lib" path="lib/ccpp.jar"/>
+	<classpathentry kind="lib" path="lib/ecj.jar"/>
+	<classpathentry kind="lib" path="lib/jalopy.jar"/>
+	<classpathentry kind="lib" path="lib/jargs.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/log4j.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/qdox.jar"/>
+	<classpathentry kind="lib" path="lib/serializer.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="lib/xalan.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xml-apis.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/liferay-portal-src-6.0-ee-sp2"/>
+	<classpathentry kind="lib" path="E:/ROHM/poc/liferay-portal-6.0-ee-sp2/tomcat-6.0.32/lib/ext/portlet.jar"/>
+	<classpathentry kind="lib" path="portlets/infra-test-portlet/docroot/WEB-INF/lib/org.springframework.asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="portlets/infra-test-portlet/docroot/WEB-INF/lib/org.springframework.beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="portlets/infra-test-portlet/docroot/WEB-INF/lib/org.springframework.context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="portlets/infra-test-portlet/docroot/WEB-INF/lib/org.springframework.core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="portlets/infra-test-portlet/docroot/WEB-INF/lib/org.springframework.expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="portlets/infra-test-portlet/docroot/WEB-INF/lib/org.springframework.web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="portlets/infra-test-portlet/docroot/WEB-INF/lib/org.springframework.web.portlet-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="portlets/infra-test-portlet/docroot/WEB-INF/lib/org.springframework.web.servlet-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="portlets/infra-test-portlet/docroot/WEB-INF/lib/org.springframework.jdbc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="portlets/infra-test-portlet/docroot/WEB-INF/lib/org.springframework.orm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="portlets/infra-test-portlet/docroot/WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
